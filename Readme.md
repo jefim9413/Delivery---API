@@ -27,7 +27,7 @@ API RESTful para gerenciamento de usuários, produtos, pedidos e autenticação 
 ### **Instalação**
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo-delivery.git
+git clone https://github.com/jefim9413/Delivery---API.git
 cd seu-repo-delivery
 cp .env.example .env
 # Edite o .env para apontar para seu banco de dados PostgreSQL
