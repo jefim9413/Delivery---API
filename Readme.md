@@ -4,12 +4,6 @@ API RESTful para gerenciamento de usuários, produtos, pedidos e autenticação 
 
 ---
 
-## **Link do Video**
-https://drive.google.com/file/d/1_4tcos3VcYyxbSak-cxfzNfIEkEV4k3g/view?usp=sharing
-
-
----
-
 ## **Tecnologias Utilizadas**
 
 - [Node.js](https://nodejs.org/)
